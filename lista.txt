@@ -4,3 +4,4 @@ arroz
 fideos
 lavandina
 trapo de piso
+manzana
